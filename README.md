@@ -24,3 +24,18 @@ Dans la mesure du possible, individualisez les supports au maximum en indiquant 
 * [Fiche « dossier données »](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-03_Dossier-donnees.odt) à enrichir en séance 1
 * [Fiche veille](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-04_Veille.odt) à commencer à remplir en séance 1 puis enrichir
 * [Fiche guide/trame d’entretien](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-05_Trame-atelier-et-guide-entretien.odt) à préparer en séance 1
+
+## Jour 2 / Séance 2
+
+### [Présentation 2](https://github.com/Jehadel/Besoins-cadrage/blob/main/Seance-2_Ateliers-KPIs-donnees-faisabilite-risques.pdf)
+
+### Supports séance 2
+
+* [Classeur pour matrices et analyse](https://github.com/Jehadel/Besoins-cadrage/blob/main/Classeur_Outils-de-cadrage.ods)
+* [Fiche compte rendu entretien](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-06_Compte-rendu-atelier-entretien.odt)
+* [Fiche objectifs et KPIs](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-08_Objectifs-SMART-et-KPIs.odt)
+* [Fiche inventaire des données](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-09_Inventaire-des-donnees.odt)
+
+## Jour 3 / Séance 3
+
+### [Présentation des évaluations et des livrables finaux](https://github.com/Jehadel/Besoins-cadrage/blob/main/Seance-3_Quiz-livrables-soutenances.pdf)
