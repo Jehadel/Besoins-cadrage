@@ -29,12 +29,22 @@ Dans la mesure du possible, individualisez les supports au maximum en indiquant 
 
 ### [Présentation 2](https://github.com/Jehadel/Besoins-cadrage/blob/main/Seance-2_Ateliers-KPIs-donnees-faisabilite-risques.pdf)
 
+* Entretiens et compte-rendus d’entretien
+* Analyse des entretiens : cas d’usage, faits, contraintes, solution, opinion
+* MoSCoW
+* Objectif SMART, KPI (métier, métrique, adoption)
+* Priorisation, matrice ICE, vote client
+* Audit des données (inventaire)
+* Faisabilité, matrice TELOS
+* Risques, mitigation, décision
+
 ### Supports séance 2
 
 * [Classeur pour matrices et analyse](https://github.com/Jehadel/Besoins-cadrage/blob/main/Classeur_Outils-de-cadrage.ods)
 * [Fiche compte rendu entretien](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-06_Compte-rendu-atelier-entretien.odt)
 * [Fiche objectifs et KPIs](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-08_Objectifs-SMART-et-KPIs.odt)
 * [Fiche inventaire des données](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-09_Inventaire-des-donnees.odt)
+* [Fiche « recette » / évaluation décision](https://github.com/Jehadel/Besoins-cadrage/blob/main/fiches-etudiants/Fiche-10_Grille-de-recette.odt)
 
 ## Jour 3 / Séance 3
 
